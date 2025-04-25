@@ -3,6 +3,7 @@
 Sou o Jonathan
 
 <h1>Uninorte</h1>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAlvarez&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117">
 
 
 **Jonathanbfb/jonathanbfb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
