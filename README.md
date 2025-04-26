@@ -4,7 +4,7 @@ Sou o Jonathan
 
 <h1>Uninorte - TURMA ADS B</h1>
 
-<img src="https://www.sereducacional.com/storage/app/uploads/uninorte-2.png">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwooVxOEGHimIJCHGDtG1xwRY3tagf5ZJrUXm1IImWlA&s&ec=72940544">
 
 
 
